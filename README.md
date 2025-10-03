@@ -17,7 +17,7 @@ A standard **Linux/Unix** environment (Bash and common utilities).
 Use `git clone` to quickly download the tool's repository:
 
 ```bash
-git clone [https://github.com/williamlaurent/ip-log-parser/](https://github.com/williamlaurent/ip-log-parser/)
+git clone https://github.com/williamlaurent/ip-log-parser.git
 ```
 
 ### Usage
