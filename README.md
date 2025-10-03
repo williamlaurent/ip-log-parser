@@ -4,7 +4,7 @@ A simple Bash script for rapid analysis and data extraction from massive log fil
 
 ### Key Features
 
-* **Top IP Extraction:** Quickly identifies the top 10 most frequent IP addresses.
+* **Top IP Extraction:** Quickly identifies the top 20 most frequent IP addresses.
 * **Efficiency:** Uses native, fast CLI tools (`grep`, `awk`, `sort`, `uniq`).
 * **Security Focus:** Helps spot patterns like *brute-force* attempts or suspicious host activity.
 
